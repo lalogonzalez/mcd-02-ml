@@ -1,6 +1,7 @@
 docs/catboost_info/
 *.pkl
 *_api.py
+*hackathon/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
