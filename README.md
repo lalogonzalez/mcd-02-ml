@@ -25,8 +25,11 @@ Repositorio de tareas de Maestria en Ciencia de Datos correspondiente a la mater
 - Semana 05 - Aprendizaje supervisado
     - [Aprendizaje supervisado](./docs/05-aprendizaje-supervisado.ipynb)
 - Semana 06 - Clasificación
+    - Hackathon Soccer
 - Semana 07 - Métricas de desempeño
+    - [Métricas de desempeño](./docs/05-aprendizaje-supervisado.ipynb)
 - Semana 08 - Diseño de experimentos
+    - [Diseño de experimentos n_iter=100, fold=10, early_stopping=True, información de experimentos en carpeta catboost_info](./docs/05-aprendizaje-supervisado.ipynb)
 - Semana 09 - Resultados
 - Semana 10 - Artículo
 - Semana 11 - Transformaciones
