@@ -31,5 +31,7 @@ Repositorio de tareas de Maestria en Ciencia de Datos correspondiente a la mater
 - Semana 08 - Diseño de experimentos
     - [Diseño de experimentos n_iter=100, fold=10, early_stopping=True, información de experimentos en carpeta catboost_info](./docs/05-aprendizaje-supervisado.ipynb)
 - Semana 09 - Resultados
+    - [Resultados](./article/09-resultados.pdf)
 - Semana 10 - Artículo
+    - [Articulo](./article/02_mcd_ml.pdf)
 - Semana 11 - Transformaciones
